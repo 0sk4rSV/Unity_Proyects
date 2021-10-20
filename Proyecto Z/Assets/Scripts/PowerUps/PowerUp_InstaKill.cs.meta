@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b3ed2aa33c3223e489763808d4e51545
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ac_sonidoInstaKill: {fileID: 8300000, guid: fd7f7cbc0fdddd44c8ffdd01ad921d24, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

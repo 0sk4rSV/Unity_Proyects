@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 334989c2e1f1ca440974aa013e96632c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ac_sonidoNuke: {fileID: 8300000, guid: 79ed7ff2fa8f62b47a68d4916310eb3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
